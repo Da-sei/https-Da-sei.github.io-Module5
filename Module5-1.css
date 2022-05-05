@@ -1,0 +1,10 @@
+.parent {
+    text-align: center;
+}
+
+.inline-block_test {
+    display: inline-block;
+    background-color: gray;
+    padding: 20px;
+    height: 100px;
+}
